@@ -1,0 +1,76 @@
+{
+  "resultSet": {
+    "MotivationAtWork": {
+      "Intrinsic": 4,
+      "Identified": 3,
+      "Introjected": 5,
+      "ExternalMotivation": 5,
+      "Total": 17,
+      "Average": 0
+    },
+    "EntrepreneurialPassion": {
+      "Inventing": 7,
+      "Founding": 8,
+      "Developing": 5,
+      "Total": 20,
+      "Average": 0
+    },
+    "PassionScale": { "HarmoniousPassion": 9, "ObsessivePassion": 10 },
+    "IndividualEntrepreneurialOrientation": {
+      "RiskTaking": 4,
+      "Innovativeness": 5,
+      "Proactivity": 4,
+      "Total": 13,
+      "Average": 0
+    },
+    "EntrepreneurialSelfEfficacy": {
+      "Searching": 3,
+      "Planning": 6,
+      "Marshaling": 5,
+      "ImplementingPeople": 9,
+      "ImplementingFinancial": 6,
+      "AttitudeTowardVenturing": 0,
+      "Average": 0,
+      "Total": 29
+    },
+    "CognitiveFlexibility": { "Total": 50, "Average": 0 },
+    "Empathy": { "Total": 48, "Average": 0 },
+    "NeedToAchieve": { "Total": 11, "Average": 0 },
+    "Grit": { "Total": 31, "Average": 0 },
+    "GrowthOrientation": { "Total": 7 },
+    "GrowthMindset": { "Total": 7, "Average": 0 },
+    "ToleranceForAmbiguity": { "Total": 44, "Average": 0 },
+    "Resilience": { "Total": 23, "Average": 0 },
+    "FearOfFailure": {
+      "AbilityToFundTheVenture": 6,
+      "PotentialOfTheIdea": 6,
+      "ThreatToSocialEsteem": 6,
+      "OpportunityCosts": 6,
+      "PersonalAbility": 6,
+      "FinancialSecurity": 7,
+      "VenturesCapacity": 9,
+      "Total": 46,
+      "Average": 0
+    },
+    "ImposterSyndrome": { "Total": 23, "Average": 0 },
+    "TheBigFive": {
+      "Extraversion": 24,
+      "Agreeableness": 30,
+      "Conscientiousness": 28,
+      "Neuroticism": 26,
+      "Openness": 38,
+      "Total": 146,
+      "Average": 0
+    },
+    "PsychologicalWellbeing": {
+      "Autonomy": 0,
+      "EnvironmentalMastery": 0,
+      "PersonalGrowth": 0,
+      "PositiveRelationswithOthers": 0,
+      "PurposeInLife": 0,
+      "SelfAcceptance": 0,
+      "Average": 0,
+      "Total": 0
+    }
+  }
+}
